@@ -15,12 +15,16 @@ body {
 	height: 300px;
 }
 
-.conatiner p {
+.conatiner .movieDetail {
 	font-size: 20px;
 	font-weight: 600px;
+	text-align: center;
+	width: 400px;
+	top: 20px;
+	position: absolute;
 }
 
-.container img {
+.container .moviePic {
 	width: 100%;
 	height: 200px;
 	margin-top: 20px;
